@@ -7,6 +7,7 @@
 <p align="center"><b>A hacker-revenge sim.</b> You were fired from CorpoMax Game Softs.<br>Build a rig, break in, and make them pay — one firewall, captcha, and zombie box at a time.</p>
 
 <p align="center">
+  <a href="https://deviousdevelopments.itch.io/hackfest"><img src="https://img.shields.io/badge/play%20in%20browser-itch.io-fa5c5c" alt="Play on itch.io"></a>
   <a href="https://github.com/yodahlorian/Hackfest/releases/latest"><img src="https://img.shields.io/github/v/release/yodahlorian/Hackfest?include_prereleases&label=latest&color=2ea44f" alt="Latest release"></a>
   <a href="https://github.com/yodahlorian/Hackfest/releases"><img src="https://img.shields.io/github/downloads/yodahlorian/Hackfest/total?color=1f6feb&label=downloads" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Web-0a7bbb" alt="Windows | Web">
@@ -30,6 +31,10 @@
 
 > If Windows SmartScreen warns you, click **More info → Run anyway** — it's an unsigned indie
 > build, not malware. Saves live under `%APPDATA%\Godot\app_userdata\Hackfest\`.
+
+## 🌐 Play in Browser (itch.io)
+
+Don't want to download anything? **[Play Hackfest right in your browser on itch.io »](https://deviousdevelopments.itch.io/hackfest)** — no product key, no install, no wait. A keyless Windows download is on the itch page too.
 
 ## ✦ What it is
 
