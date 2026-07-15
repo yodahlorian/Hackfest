@@ -2,6 +2,16 @@
 
 All notable changes to the Hackfest beta.
 
+## v0.16.1-beta — 2026-07-15
+### Fixed
+- **Web build: the last blank icons now render.** The phone/window **✕** close, the **✓** on
+  "Owned", the **☰** menu, the **⊞** start button, the **↺** Load arrow (and assorted arrows,
+  the trace bar, and the RipCoin mark) were still showing as blank boxes in the browser — the
+  previously-bundled symbol font didn't actually contain any of them. Swapped in a broad
+  symbol font that covers them all; color emoji still render in colour.
+- **Crapazon delivery is now centered.** The "Delivered" box was opening pinned to the top-left
+  corner instead of the middle of the screen. It now sits dead-center.
+
 ## v0.16.0-beta — 2026-07-15
 ### Changed
 - **Deliveries open straight to the parts screen.** The order now unpacks onto one centered screen,
