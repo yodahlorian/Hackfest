@@ -2,6 +2,16 @@
 
 All notable changes to the Hackfest beta.
 
+## v0.16.0-beta — 2026-07-15
+### Changed
+- **Deliveries open straight to the parts screen.** The order now unpacks onto one centered screen,
+  dropping each item in every half-second; **Add to Inventory** unlocks once every item has arrived.
+### Fixed
+- **Web build now renders all the icons/symbols.** Bundled proper emoji + symbol fonts, so the phone,
+  menu, and store icons (the ✕, checkmarks, +/−, arrows, spinner, etc.) display in the browser instead
+  of showing blank.
+- **A branded loading screen** now shows while the web build downloads, instead of the default engine logo.
+
 ## v0.15.0-beta — 2026-07-14
 ### Changed
 - This build now requires a **product key** to activate on first launch.
