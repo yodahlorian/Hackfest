@@ -7,7 +7,7 @@
 <p align="center"><b>A hacker-revenge sim.</b> You were fired from CorpoMax Game Softs.<br>Build a rig, break in, and make them pay — one firewall, captcha, and zombie box at a time.</p>
 
 <p align="center">
-  <a href="https://deviousdevelopments.itch.io/hackfest"><img src="https://img.shields.io/badge/play%20in%20browser-itch.io-fa5c5c" alt="Play on itch.io"></a>
+  <a href="https://deviousdevelopments.itch.io/hackfest"><img src="https://img.shields.io/badge/play%20the%20demo-itch.io-fa5c5c" alt="Play the demo on itch.io"></a>
   <a href="https://github.com/yodahlorian/Hackfest/releases/latest"><img src="https://img.shields.io/github/v/release/yodahlorian/Hackfest?include_prereleases&label=latest&color=2ea44f" alt="Latest release"></a>
   <a href="https://github.com/yodahlorian/Hackfest/releases"><img src="https://img.shields.io/github/downloads/yodahlorian/Hackfest/total?color=1f6feb&label=downloads" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Web-0a7bbb" alt="Windows | Web">
@@ -21,20 +21,21 @@
 
 ---
 
-## ▶ Download & Play (Windows)
+## 🌐 Play the Free Demo
+
+Try Hackfest free — **[play the demo right in your browser on itch.io »](https://deviousdevelopments.itch.io/hackfest)**, no install and no key. The demo takes you through the opening act: order parts, build your rig, break into CorpoMax and take down the coworker who got you fired. Want the whole story? Grab the **full game** below.
+
+## ▶ Get the Full Game (Windows)
 
 1. Open the **[latest release](https://github.com/yodahlorian/Hackfest/releases/latest)** and download **`Hackfest.exe`**.
 2. **Double-click `Hackfest.exe`** and enter your **product key** to activate. No install — the
-   build is one self-contained file.
+   build is one self-contained file. The full campaign runs from your revenge on CorpoMax all the way
+   to the one pulling the strings.
 
 > 🔑 **Need a product key?** Email **[Yodahlorian@gmail.com](mailto:Yodahlorian@gmail.com)** to request one.
 
 > If Windows SmartScreen warns you, click **More info → Run anyway** — it's an unsigned indie
 > build, not malware. Saves live under `%APPDATA%\Godot\app_userdata\Hackfest\`.
-
-## 🌐 Play in Browser (itch.io)
-
-Don't want to download anything? **[Play Hackfest right in your browser on itch.io »](https://deviousdevelopments.itch.io/hackfest)** — no product key, no install, no wait. A keyless Windows download is on the itch page too.
 
 ## ✦ What it is
 
