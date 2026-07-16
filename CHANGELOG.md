@@ -2,6 +2,23 @@
 
 All notable changes to the Hackfest beta.
 
+## v0.17.0-beta — 2026-07-16
+### Added
+- **Free demo.** The in-browser build and a keyless Windows download are now a **demo** — play the
+  opening act (build a rig, break into CorpoMax, take down Brant) and the story walls with a prompt to
+  grab the full game. The full campaign is the paid download.
+- **All-new visual PC builder.** The tower builder is a real, motherboard-style scene now: pick a case
+  first, drop a board into the open case, then seat parts into actual sockets — a CPU socket with VRM
+  heatsinks, a DIMM bank, long PCIe graphics-card slots, a chipset, a drive cage and a PSU shroud, with
+  the monitor on the desk. Empty slots show a ghost of the part that belongs there and a small "+".
+- **Every case, monitor and RGB kit looks unique.** Cardboard looks like cardboard, glass is
+  see-through, steel is brushed metal, the Titan is gold, the rack has rack ears — and each monitor has
+  its own chassis (bulky CRT, thin OLED, ultrawide…). Installed RGB kits **light up and animate** in
+  their own zones (a strip, the case loop, fan halos, underglow, an infinity mirror…).
+### Changed
+- **Realistic motherboard slots.** Boards top out at 2 CPU sockets / 8 RAM / 4 PCIe / 6 drives, like
+  real hardware, and every board is visibly different from the last.
+
 ## v0.16.1-beta — 2026-07-15
 ### Fixed
 - **Web build: the last blank icons now render.** The phone/window **✕** close, the **✓** on
