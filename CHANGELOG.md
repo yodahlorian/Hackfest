@@ -2,6 +2,14 @@
 
 All notable changes to the Hackfest beta.
 
+## v0.18.0-beta — 2026-07-16
+### Changed
+- **All-new phone.** The in-game phone is a real smartphone now instead of a plain window: a rounded
+  handset with a status bar (a live in-fiction clock, carrier, signal, wifi and battery), a gradient
+  wallpaper, a home screen with a big clock widget and a dock, and a home bar to put it away. Every app
+  has a clean, hand-drawn icon — shopping cart, chat bubble, handset, pirate flag, coin, gear — instead
+  of the old emoji tiles, and Messages reads like a proper chat with sender, timestamp and rounded bubbles.
+
 ## v0.17.0-beta — 2026-07-16
 ### Added
 - **Free demo.** The in-browser build and a keyless Windows download are now a **demo** — play the
