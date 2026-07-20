@@ -2,6 +2,33 @@
 
 All notable changes to the Hackfest beta.
 
+## v0.19.0-beta — 2026-07-20
+### Added
+- **Real drive letters + data migration.** Your storage is no longer one big pool. Every installed
+  drive is now a real lettered drive — **C:** is your OS/boot drive, then D:, E: and so on — and your
+  software lives on a specific drive. When you download something you choose which drive to save it to
+  (with per-drive free space shown), and you can move data around: a slow in-OS migrate that ties up a
+  connection, or a fast, powered-down **Data Migration Dock** — new hardware on the RipStore in 1-, 2-
+  and 5-bay sizes — that copies pulled drives onto a new one. Pull a drive and its data goes with it.
+- **First-boot setup.** Buy a **HackfestOS Install USB** from Crapazon, build your rig, and your first
+  boot runs a real setup: pick the drive to install the OS onto, then **choose your handle** — the name
+  that identifies you across the OS. (The old drive that just auto-booted with no setup is gone.)
+
+### Changed
+- **All-new hardware icons.** Every part — motherboards, CPUs, GPUs, RAM, drives, power supplies,
+  coolers, cases, fans, monitors, network cards, and the new USB stick — has a crisp, redrawn icon in a
+  clean flat style, shown in the Crapazon store and the delivery box.
+- **Boot media ships like everything else.** The Install USB is bought and **delivered** in the 📦 box
+  with the rest of your order instead of appearing instantly.
+- **The RipStore tells you why.** Items you can't buy yet are greyed out with a reason on hover — need
+  more RipCoin, no drive has room, or already installed.
+- **Cleaner desk.** The Build PC Tower button only shows up once you actually have parts to build with.
+
+### Fixed
+- **Splash screens skip on a click**, not just a key press.
+- **The phone's home button** now returns you to the home screen first, and only puts the phone away
+  when you're already on it.
+
 ## v0.18.0-beta — 2026-07-16
 ### Changed
 - **All-new phone.** The in-game phone is a real smartphone now instead of a plain window: a rounded
