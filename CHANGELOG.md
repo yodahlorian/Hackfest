@@ -2,6 +2,19 @@
 
 All notable changes to the Hackfest beta.
 
+## v0.20.0-beta — 2026-08-13
+### Added
+- **Sound.** Hackfest was completely silent until now. It has a **layered ambient score** that
+  responds to what you're doing: a deep drone and server-room hum underneath everything, a sub-kick
+  and slow minor arpeggio once you're in HackfestOS, and a third layer of ticking, dissonance and
+  risers that **fades in whenever a connection is live** — so cracking a firewall audibly tightens
+  the music, and it relaxes again when the op finishes.
+- **UI sound throughout.** Clicks, keystrokes, window opens, connection start/finish chimes, a
+  trophy sting, a BIOS beep on power-on, and an error buzz when a trace catches you or a connection
+  is refused. The whole fake OS is clicky now.
+- **Music and Sound Effects toggles** — Phone → Settings → Sound. Stored per machine, so the choice
+  survives starting a new game.
+
 ## v0.19.0-beta — 2026-07-20
 ### Added
 - **Real drive letters + data migration.** Your storage is no longer one big pool. Every installed

@@ -74,6 +74,9 @@ seeding malware that prints money while they sleep.
   rep at a black-market **store** for gear like **Aquawall** that speeds your cracks.
 - 📓 **Logs trace to people** — crack a server and its auth log names the **[service]** hosts and
   **[user]** staff behind it. Resolve them in HackFple; their boxes hold the loot and the next cracker.
+- 🔊 **A score that reacts** — a layered ambient soundtrack that tightens while a connection is
+  live and eases off when it closes, plus UI sound across the whole fake OS. Music and SFX toggles
+  live in Phone → Settings.
 - 🧩 **Puzzles & captchas** — every box throws a security challenge (**12 kinds**). Encrypted files
   guard the best software behind a harder one.
 - 🏆 **Achievements with teeth** — **24 trophies** that actually pay off. Most grant a small
