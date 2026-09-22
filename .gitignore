@@ -1,3 +1,4 @@
 RELEASE_NOTES*.md
-Hackfest.exe
+*.exe
 *.pck
+*.zip

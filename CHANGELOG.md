@@ -1,6 +1,16 @@
 # Changelog
 
-All notable changes to the Hackfest beta.
+All notable changes to Hackfest.
+
+## v0.20.1-beta — 2026-09-22
+### Changed
+- **Release parity.** DominoGue, Hackfest and aMAZEing now ship the same way — a free browser demo
+  and a no-key Windows download on itch.io, and a product-key Windows build here on GitHub — all
+  built by one shared studio pipeline.
+- **Existing product keys and activations carry over unchanged** — nothing to re-enter.
+- **The itch.io Windows download is now PCK-encrypted**, like the GitHub build.
+- The main-menu version label now reads straight from the build, so it can never go stale.
+- No gameplay changes.
 
 ## v0.20.0-beta — 2026-08-13
 ### Added
